@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "dotenv": "^16.0.1"
+  }
+}
