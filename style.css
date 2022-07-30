@@ -28,3 +28,25 @@
     background-color: #ddd2d2;
     cursor: pointer;
 }
+
+.swap_button{
+    float: right;
+    width: 100%;
+}
+
+.token_list_img, .token_image{
+    width: 30px;
+}
+
+.modal-body{
+    height: 400px;
+    overflow: scroll;
+}
+
+.token_row{
+    padding: 3px;
+}
+.token_row:hover{
+    background-color: #ddd2d2;
+    cursor: pointer;
+}
